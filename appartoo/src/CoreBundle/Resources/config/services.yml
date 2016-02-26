@@ -1,0 +1,26 @@
+services:
+#    core.example:
+#        class: CoreBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
+
+ core.redirection.after_login_redirection:
+    class: CoreBundle\Redirection\AfterLoginRedirection
+    arguments: [ "@router" ]
+
+ core.form_type.profile_form_type:
+    class: CoreBundle\Form\Type\ProfileFormType
+    arguments: [%fos_user.model.user.class%]
+    tags:
+        - { name: form.type, alias: core_user_profile }
+
+ core.manager.carnet_adresse_manager:
+    class: CoreBundle\Manager\CarnetAdresseManager
+    arguments: [ "@doctrine.orm.entity_manager" ]
+
+ core.services.mailer:
+    class: CoreBundle\Services\Mailer
+    arguments: [ "@swiftmailer.mailer", "@templating.engine.twig" ]
+
+ core.manager.user_manager:
+    class: CoreBundle\Manager\UserManager
+    arguments: [ "@doctrine.orm.entity_manager" ]

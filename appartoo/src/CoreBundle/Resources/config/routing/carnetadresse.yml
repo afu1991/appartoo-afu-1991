@@ -1,0 +1,19 @@
+carnetadresse_index:
+    path:     /
+    defaults: { _controller: "CoreBundle:CarnetAdresse:index" }
+    methods:  GET
+
+carnetadresse_new:
+    path:     /new
+    defaults: { _controller: "CoreBundle:CarnetAdresse:new" }
+    methods:  [GET, POST]
+
+carnetadresse_edit:
+    path:     /{id}/edit
+    defaults: { _controller: "CoreBundle:CarnetAdresse:edit" }
+    methods:  [GET, POST]
+
+carnetadresse_delete:
+    path:     /{id}/delete
+    defaults: { _controller: "CoreBundle:CarnetAdresse:delete" }
+    methods:  GET

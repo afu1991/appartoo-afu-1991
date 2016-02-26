@@ -1,0 +1,38 @@
+{% extends 'CoreBundle::layout.html.twig' %}
+
+{% block body %}
+
+    <div class="container">
+        <div class="page-header">
+            <h1> Carnet Adresses </h1>
+        </div>
+        {% for flash_message in app.session.flashbag.get('notice') %}
+            <div class="alert alert-success">
+                <strong>Success ! </strong> {{ flash_message }}
+            </div>
+        {% endfor %}
+        <h2><a class="btn btn-info" href="{{ path('carnetadresse_new') }}">Ajouter</a> </h2>
+
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th>Username</th>
+                <th>Email</th>
+                <th>Modifier</th>
+                <th>Supprimer</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for carnetAdresse in carnetAdresses.carnetAdresses %}
+            <tr>
+                <td>{{ carnetAdresse.username }}</td>
+                <td>{{ carnetAdresse.email }}</td>
+                <td> <a class="btn btn-warning" href="{{ path('carnetadresse_edit', { 'id': carnetAdresse.id }) }}"><i class="fa fa-refresh fa-2x"></i></a></td>
+                <td> <a class="btn btn-danger" href="{{ path('carnetadresse_delete', {'id': carnetAdresse.id}) }}"><i class="fa fa-times fa-2x"></i></a> </td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+{% endblock %}

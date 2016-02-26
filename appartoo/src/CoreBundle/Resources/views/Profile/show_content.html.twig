@@ -1,0 +1,51 @@
+{% trans_default_domain 'FOSUserBundle' %}
+
+    <div class="container">
+        <div class="page-header">
+            <h1> Mon profile </h1>
+        </div>
+        <div class="fos_user_user_show">
+            <p>{{ 'profile.show.username'|trans }}: {{ user.username }}</p>
+
+            {% if user.firstname %}
+                <p>Prénom : {{ user.firstname }}</p>
+            {% else %}
+                <p>  Prénom : Non communiqué</p>
+            {% endif %}
+
+            <p>{{ 'profile.show.email'|trans }}: {{ user.email }}</p>
+            {% if user.address %}
+               <p>Adresse : {{ user.address }}</p>
+            {% else %}
+                <p>  Adresse : Non communiqué</p>
+            {% endif %}
+
+            {% if user.number %}
+            <p> Numero : {{ user.number }}</p>
+            {% else %}
+            <p> Numero : Non communiqué</p>
+            {% endif %}
+
+            {% if user.webaddress %}
+                <p> Web : {{ user.webaddress }}</p>
+            {% else %}
+                <p> Web: Non communiqué</p>
+            {% endif %}
+
+            <div class="btn-group">
+                <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Modifier <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu">
+                    <li><a href="{{ path('fos_user_profile_edit') }}">Mes informations</a></li>
+                    <li><a href="{{ path('fos_user_change_password') }}">Changer mot de passe</a></li>
+                </ul>
+            </div>
+            <div class="btn-group">
+                <a href="{{ path('carnetadresse_index') }}" class="btn btn-primary">
+                    Carnet d'addresse
+                </a>
+
+            </div>
+        </div>
+    </div>
