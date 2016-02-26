@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="778fe46b-9b2e-4070-990b-5b643ef64f40" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/var/cache/.gitkeep" afterPath="$PROJECT_DIR$/appartoo/var/cache/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/var/logs/.gitkeep" afterPath="$PROJECT_DIR$/appartoo/var/logs/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/var/sessions/.gitkeep" afterPath="$PROJECT_DIR$/appartoo/var/sessions/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/web/apple-touch-icon.png" afterPath="$PROJECT_DIR$/appartoo/web/apple-touch-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/web/favicon.ico" afterPath="$PROJECT_DIR$/appartoo/web/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/.htaccess" afterPath="$PROJECT_DIR$/appartoo/app/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/.htaccess" afterPath="$PROJECT_DIR$/appartoo/src/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/web/.htaccess" afterPath="$PROJECT_DIR$/appartoo/web/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Redirection/AfterLoginRedirection.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Redirection/AfterLoginRedirection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/AppCache.php" afterPath="$PROJECT_DIR$/appartoo/app/AppCache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/AppKernel.php" afterPath="$PROJECT_DIR$/appartoo/app/AppKernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Manager/BaseManager.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Manager/BaseManager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Entity/CarnetAdresse.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Entity/CarnetAdresse.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Controller/CarnetAdresseController.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Controller/CarnetAdresseController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Tests/Controller/CarnetAdresseControllerTest.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Tests/Controller/CarnetAdresseControllerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Manager/CarnetAdresseManager.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Manager/CarnetAdresseManager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Repository/CarnetAdresseRepository.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Repository/CarnetAdresseRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Form/CarnetAdresseType.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Form/CarnetAdresseType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/CoreBundle.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/CoreBundle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Tests/Controller/DefaultControllerTest.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Tests/Controller/DefaultControllerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/tests/AppBundle/Controller/DefaultControllerTest.php" afterPath="$PROJECT_DIR$/appartoo/tests/AppBundle/Controller/DefaultControllerTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Services/Mailer.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Services/Mailer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Form/Type/ProfileFormType.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Form/Type/ProfileFormType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/README.md" afterPath="$PROJECT_DIR$/appartoo/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Controller/RegistrationController.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Controller/RegistrationController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Controller/SecurityController.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Controller/SecurityController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/var/SymfonyRequirements.php" afterPath="$PROJECT_DIR$/appartoo/var/SymfonyRequirements.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Entity/User.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Entity/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Manager/UserManager.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Manager/UserManager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Repository/UserRepository.php" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Repository/UserRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/web/app.php" afterPath="$PROJECT_DIR$/appartoo/web/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/web/app_dev.php" afterPath="$PROJECT_DIR$/appartoo/web/app_dev.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/autoload.php" afterPath="$PROJECT_DIR$/appartoo/app/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/appartoo/app/Resources/views/base.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/config/routing/carnetadresse.yml" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/config/routing/carnetadresse.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/ChangePassword/changePassword.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/ChangePassword/changePassword.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/ChangePassword/changePassword_content.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/ChangePassword/changePassword_content.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Registration/checkEmail.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Registration/checkEmail.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/composer.json" afterPath="$PROJECT_DIR$/appartoo/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/composer.lock" afterPath="$PROJECT_DIR$/appartoo/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/web/config.php" afterPath="$PROJECT_DIR$/appartoo/web/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/config/config.yml" afterPath="$PROJECT_DIR$/appartoo/app/config/config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/config/config_dev.yml" afterPath="$PROJECT_DIR$/appartoo/app/config/config_dev.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/config/config_prod.yml" afterPath="$PROJECT_DIR$/appartoo/app/config/config_prod.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/config/config_test.yml" afterPath="$PROJECT_DIR$/appartoo/app/config/config_test.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Registration/confirmed.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Registration/confirmed.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Profile/edit.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Profile/edit.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/carnetadresse/edit.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/carnetadresse/edit.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Profile/edit_content.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Profile/edit_content.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Registration/email.txt.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Registration/email.txt.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/Resources/views/default/index.html.twig" afterPath="$PROJECT_DIR$/appartoo/app/Resources/views/default/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Default/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/carnetadresse/index.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/carnetadresse/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/layout.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/layout.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Security/login.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Security/login.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/carnetadresse/new.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/carnetadresse/new.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/config/parameters.yml.dist" afterPath="$PROJECT_DIR$/appartoo/app/config/parameters.yml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/phpunit.xml.dist" afterPath="$PROJECT_DIR$/appartoo/phpunit.xml.dist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Registration/register.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Registration/register.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Registration/register_content.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Registration/register_content.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/web/robots.txt" afterPath="$PROJECT_DIR$/appartoo/web/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/config/routing.yml" afterPath="$PROJECT_DIR$/appartoo/app/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/config/routing_dev.yml" afterPath="$PROJECT_DIR$/appartoo/app/config/routing_dev.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/config/security.yml" afterPath="$PROJECT_DIR$/appartoo/app/config/security.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Emails/sendmailer.txt.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Emails/sendmailer.txt.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/app/config/services.yml" afterPath="$PROJECT_DIR$/appartoo/app/config/services.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/config/services.yml" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/config/services.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Profile/show.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Profile/show.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Profile/show_content.html.twig" afterPath="$PROJECT_DIR$/appartoo/src/CoreBundle/Resources/views/Profile/show_content.html.twig" />
+    </list>
+    <ignored path="appartoo-projet.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="appartoo-projet" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SecurityController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/appartoo/src/CoreBundle/Controller/SecurityController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.64285713">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="336" />
+    <option name="y" value="155" />
+    <option name="width" value="1890" />
+    <option name="height" value="819" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Security" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo-projet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appartoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="778fe46b-9b2e-4070-990b-5b643ef64f40" name="Default" comment="" />
+      <created>1456475466047</created>
+      <option name="number" value="Default" />
+      <updated>1456475466047</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="336" y="155" width="1890" height="819" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/appartoo/src/CoreBundle/Controller/SecurityController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64285713">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
