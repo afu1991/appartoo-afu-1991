@@ -1,4 +1,12 @@
+api:
+    resource: "@ApiBundle/Resources/config/routing.yml"
+    prefix:   /
+
 core:
     resource: "@CoreBundle/Resources/config/routing.yml"
     prefix:   /
 
+users:
+    type:     rest
+    resource: ApiBundle\Controller\UsersController
+    prefix: /api
